@@ -1,0 +1,24 @@
+% layout 'default';
+% title 'vfbse.org - Projekte';
+</head>
+<body>
+  <div class="container">
+    <nav>
+      <div class="nav-wrapper light-blue white-text">
+        <ul id="nav-mobile" class="left hide-on-med-and-down">
+          <li><a href="/">Home</a></li>
+          <li class="bcrumb"> > </li>
+          <li class="bcrumb">Projekte</li>
+        </ul>
+        <h1 class="brand-logo center">Projekte</h1>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li><a href="/contact">Kontakt</a></li>
+          <li><a href="/legal">Impressum</a></li>
+        </ul>
+      </div>
+    </nav>
+    <div class="row">
+      <div class="col s12">
+      </div>
+    </div>
+  </div>

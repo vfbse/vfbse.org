@@ -1,0 +1,25 @@
+% layout 'default';
+% title 'vfbse.org - Nichts gefunden!';
+</head>
+<body>
+  <div class="container">
+    <nav>
+      <div class="nav-wrapper blue-grey darken-4 white-text">
+        <ul id="nav-mobile" class="left hide-on-med-and-down">
+          <li><a href="/">Home</a></li>
+          <li class="bcrumb"> > </li>
+          <li class="bcrumb">Nichts gefunden!</li>
+        </ul>
+        <h1 class="brand-logo center">Nichts gefunden!</h1>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li><a href="/contact">Kontakt</a></li>
+          <li><a href="/legal">Impressum</a></li>
+        </ul>
+      </div>
+    </nav>
+    <div class="row">
+      <div class="col s12">
+      <p>Was auch immer Sie gesucht haben, wir konnten es nicht finden. Schönen Tag noch!</p>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,110 @@
+% layout 'default';
+% title 'vfbse.org - Satzung';
+</head>
+<body>
+  <div class="container">
+    <nav>
+      <div class="nav-wrapper purple lighten-1 white-text">
+        <ul id="nav-mobile" class="left hide-on-med-and-down">
+          <li><a href="/">Home</a></li>
+          <li class="bcrumb"> > </li>
+          <li class="bcrumb">Satzung</li>
+        </ul>
+        <h1 class="brand-logo center">Unsere Satzung</h1>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li><a href="/contact">Kontakt</a></li>
+          <li><a href="/legal">Impressum</a></li>
+        </ul>
+      </div>
+    </nav>
+    <div class="row">
+    <div class="col s12">
+    <p class="statute-paragraph">§ 1 (Name und Sitz)</p>
+    <p>Der Verein führt den Namen Verein zur Förderung der Barrierefreiheit in der Softwareentwicklung (VFBSe). Der Sitz des Vereins ist Gießen.
+    </p>
+
+    <p class="statute-paragraph">§ 2 (Geschäftsjahr)</p>
+    <p>Geschäftsjahr ist das Kalenderjahr.</p>
+
+
+    <p class="statute-paragraph">§ 3 (Zweck des Vereins)</p>
+    <p>Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.</p>
+
+    <p>Zweck des Vereins ist die Förderung der Barrierefreiheit in der Softwareentwicklung und die davon berührte Informationstechnik.</p>
+
+    <p> Der Satzungszweck wird verwirklicht insbesondere durch:
+    <ul>
+    <li>das Bewerten und ggf. Anpassen von Softwareoberflächen / -schnittstellen,</li>
+    <li>Unterstützung blinder und sehbehinderter Informatiker, Softwareentwickler (und vergleichbare Berufszweige) im Berufsalltag durch Aufbereitung und Bereitstellung von barrierefrei zugänglichen Materialien und Software</li>
+    <li>Schaffung von Bewusstsein zur Entwicklung barrierefreier Software in der Wirtschaft und im öffentlichen Sektor</li>
+    <li>Unterstützung von Unternehmen und Behörden durch Know-How-Transfer und Beratung in Sachen Barrierefreiheit</li>
+    <li>Durchführung wissenschaftlicher Veranstaltungen und Forschungsvorhaben</li>
+    <li>Entwicklung, Erstellung und Angebot von Beratungs- und Serviceleistungen, die geeignet sind, behinderungsbedingte Benachteiligungen des satzungsmäßig begünstigten Personenkreises, insbesondere in den vorgenannten Bereichen, ausgleichen zu helfen.</li>
+    </ul></p>
+
+    <p class="statute-paragraph">§ 4 (Selbstlose Tätigkeit)</p>
+    <p>Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.</p>
+
+
+    <p class="statute-paragraph">§ 5 (Mittelverwendung)</p>
+    <p>Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.</p>
+
+
+    <p class="statute-paragraph">§ 6 (Verbot von Begünstigungen)</p>
+    <p>Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.</p>
+
+
+
+
+    <p class="statute-paragraph">§ 7 (Erwerb der Mitgliedschaft)</p>
+    <p>Vereinsmitglieder können natürliche oder juristische Personen werden.</p>
+    <p>Der Aufnahmeantrag ist schriftlich oder per E-Mail zu stellen.</p>
+    <p>Über den Aufnahmeantrag entscheidet der Vorstand.</p>
+    <p>Gegen die Ablehnung, die keiner Begründung bedarf, steht dem/der Bewerber/in die Berufung an die Mitgliederversammlung zu, welche dann endgültig entscheidet.</p>
+
+
+    <p class="statute-paragraph">§ 8 (Beendigung der Mitgliedschaft)</p>
+    <p>Die Mitgliedschaft endet durch Austritt, Ausschluss, Tod oder Auflösung der natürlichen oder juristischen Person.</p>
+    <p>Der Austritt erfolgt durch schriftliche Erklärung gegenüber einem vertretungsberechtigten Vorstandsmitglied. Die Austrittserklärung muss mit einer Frist von einem Monat jeweils zum Ende des Geschäftsjahres gegenüber dem Vorstand erklärt werden.</p>
+    <p>Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insbesondere ein die Vereinsziele schädigendes Verhalten, die Verletzung satzungsmäßiger Pflichten oder Beitragsrückstände von mindestens einem Jahr. Über den Ausschluss entscheidet der Vorstand. Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist. Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig. Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte vorbehalten. Die Anrufung eines ordentlichen Gerichts hat aufschiebende Wirkung bis zur Rechtskraft der gerichtlichen Entscheidung.</p>
+
+
+    <p class="statute-paragraph">§ 9 (Beiträge, Finanzierung)</p>
+    <p>Von den Mitgliedern werden Beiträge erhoben. Die Höhe der Beiträge und deren Fälligkeit bestimmt der Vorstand.</p>
+    <p>Die Aufgaben des Vereins können mit öffentlichen Mitteln oder aus Drittmitteln (bspw. Spenden, Förderungen) finanziert werden.</p>
+
+
+    <p class="statute-paragraph">§ 10 (Organe des Vereins)</p>
+    <p>Organe des Vereins sind die Mitgliederversammlung der Vorstand.</p>
+
+
+    <p class="statute-paragraph">§ 11 (Mitgliederversammlung)</p>
+    <p>Die Mitgliederversammlung ist das oberste Vereinsorgan. Zu ihren Aufgaben gehören insbesondere die Wahl und Abwahl des Vorstands, Entlastung des Vorstands, Entgegennahme der Berichte des Vorstandes, Festsetzung von Beiträgen und deren Fälligkeit, Beschlussfassung über die Änderung der Satzung, Beschlussfassung über die Auflösung des Vereins, Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.</p>
+    <p>Im erstem Quartal eines jeden Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt.</p>
+    <p>Der Vorstand ist zur Einberufung einer außerordentlichen Mitgliederversammlung verpflichtet, wenn mindestens ein Drittel der Mitglieder dies schriftlich oder per E-Mail unter Angabe von Gründen verlangt.</p>
+    <p>Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von einem Monat schriftlich oder per E-Mail unter Angabe der Tagesordnung einberufen. Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens folgenden Tag. Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift gerichtet war.</p>
+    <p>Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich oder per E-Mail beantragt. Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.</p>
+    <p>Anträge über die Abwahl des Vorstands, über die Änderung der Satzung und über die Auflösung des Vereins, die den Mitgliedern nicht bereits mit der Einladung zur Mitgliederversammlung zugegangen sind, können erst auf der nächsten Mitgliederversammlung beschlossen werden.</p>
+    <p>Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.</p>
+    <p>Die Mitgliederversammlung wird von einem Vorstandsmitglied geleitet.</p>
+    <p>Zu Beginn der Mitgliederversammlung ist ein Schriftführer zu wählen.</p>
+    <p>Jedes Mitglied hat eine Stimme. Das Stimmrecht kann nur persönlich oder für ein Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt werden.</p>
+    <p>Bei Abstimmungen entscheidet die einfache Mehrheit der abgegebenen Stimmen.</p>
+    <p>Satzungsänderungen und die Auflösung des Vereins können nur mit einer Mehrheit von 2/3 der anwesenden Mitglieder beschlossen werden.</p>
+    <p>Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.</p>
+    <p>Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist.</p>
+
+
+    <p class="statute-paragraph">§ 12 (Vorstand)</p>
+    <p>Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.</p>
+    <p>Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren gewählt.</p>
+    <p>Vorstandsmitglieder können nur Mitglieder des Vereins werden.</p>
+    <p>Wiederwahl ist zulässig.</p>
+    <p>Der Vorstand bleibt solange im Amt, bis ein neuer Vorstand gewählt ist.</p>
+    <p>Bei Beendigung der Mitgliedschaft im Verein endet auch das Amt als Vorstand.</p>
+
+
+    <p class="statute-paragraph">§ 13 (Auflösung des Vereins)</p>
+    <p>Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft an den <a href="http://www.absv.de/">Allgemeinen Blinden- und Sehbehindertenverein Berlin gegr. 1874 e. V.</a> (Auerbachstr. 7, 14193 Berlin), der es unmittelbar und ausschließlich für gemeinnützige oder mildtätige Zwecke zu verwenden hat.</p>
+  </div>
+</div>

@@ -1,0 +1,53 @@
+% layout 'default';
+% title 'vfbse.org - Kontakt aufnehmen';
+</head>
+<body>
+  <div class="container">
+    <nav>
+      <div class="nav-wrapper cyan lighten-1 white-text">
+      <ul id="nav-mobile" class="left hide-on-med-and-down">
+        <li><a href="/">Home</a></li>
+        <li class="bcrumb"> > </li>
+        <li class="bcrumb">Kontakt</li>
+      </ul>
+        <h1 class="brand-logo center">Kontakt aufnehmen</h1>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li><a href="/legal">Impressum</a></li>
+        </ul>
+      </div>
+    </nav>
+      <form class="col s8 offset-s2" action="/contact" method="POST">
+      <%== stash('msgs') %>
+      <div class="row">
+        <div class="input-field col s12">
+         <label for="topic">Thema</label>
+          <input id="topic" name="topic" type="text" length="50" value="<%= stash('topic') %>">
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <label for="details">Details</label>
+          <textarea id="details" name="details" length="500" class="materialize-textarea"><%= stash('details') %></textarea>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <label for="email">Ihre E-Mail-Adresse</label>
+          <input id="email" type="email" name="email" value="<%= stash('email') %>">
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <label for="math">Sicherheitsfrage: Wieviel ist <%= stash('math') %>?</label>
+          <input id="math" type="text" name="math" value="">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col s12">
+          <button class="btn-large cyan lighten-1 waves-effect waves-light" type="submit">Nachricht senden
+          </button>
+        </div>
+      </div>
+      </form>
+    </div>
+  </div>

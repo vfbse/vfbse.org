@@ -1,0 +1,76 @@
+% layout 'default';
+% title 'vfbse.org - Impressum';
+</head>
+<body>
+  <div class="container">
+    <nav>
+      <div class="nav-wrapper red lighten-1 white-text">
+        <ul id="nav-mobile" class="left hide-on-med-and-down">
+          <li><a href="/">Home</a></li>
+          <li class="bcrumb"> > </li>
+          <li class="bcrumb">Impressum</li>
+        </ul>
+        <h1 class="brand-logo center">Impressum</h1>
+      </div>
+    </nav>
+    <div class="row">
+      <div class="col s12">
+        <h2>Kontakt</h2>
+        <div class="divider"></div>
+        <p>Verein zur Förderung der Barrierefreiheit in der Softwareentwicklung (VFBSe)</p>
+        <p>Musterstraße 1</p>
+        <p>11111 Musterstadt</p>
+        <p>Tel: 0123/45678901</p>
+        <p><a href="mailto:info@vfbse.org" target="_top">info@vfbse.org</a></p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col s12">
+        <h2>Vertreten durch</h2>
+        <div class="divider"></div>
+      </div>
+      <div class="col s4">
+        <div class="card grey lighten-3">
+          <div class="card-content grey-text text-darken-1">
+            <span class="card-title">1. Vorsitzender</span>
+            <div class="divider"></div><br />
+            <p>Max Mustermann</p>
+            <p>Musterstraße 1</p>
+            <p>11111 Musterstadt</p>
+            <p>Tel: 0123/45678901</p>
+            <p><a href="mailto:info@vfbse.org" target="_top">info@vfbse.org</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="col s4">
+        <div class="card grey lighten-3">
+          <div class="card-content grey-text text-darken-1">
+            <span class="card-title">2. Vorsitzender</span>
+            <div class="divider"></div><br />
+            <p>Max Mustermann</p>
+            <p>Musterstraße 1</p>
+            <p>11111 Musterstadt</p>
+            <p>Tel: 0123/45678901</p>
+            <p><a href="mailto:info@vfbse.org" target="_top">info@vfbse.org</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col s12">
+        <h2>Für den Inhalt verantwortlich</h2>
+        <div class="divider"></div>
+        <p>Max Mustermann</p>
+        <p>Musterstraße 1</p>
+        <p>11111 Musterstadt</p>
+        <p>Tel: 0123/45678901</p>
+        <p><a href="mailto:info@vfbse.org" target="_top">info@vfbse.org</a></p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col s12">
+        <p>Das Impressum gilt für <a href="http://vfbse.org">http://vfbse.org</a>.</p>
+        <p>Die Seite verwendet <a href="http://mojolicious.org/">Mojolicious</a> und <a href="http://materializecss.com/">Materialize</a> zur Darstellung.</p>
+      </div>
+    </div>
+</div>
